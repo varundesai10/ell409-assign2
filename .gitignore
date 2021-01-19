@@ -1,0 +1,4 @@
+*.zip
+tiny-imagenet-200/*
+*.mat
+svhn_cluster/*
